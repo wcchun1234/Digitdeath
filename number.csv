@@ -1,0 +1,13 @@
+Age group,Cumulative no. of deaths ,Current no. hospitalised in ICU with critical condition*,Current no. of hospitalised cases*,Cumulative no. of reported cases by nucleic acid tests / rapid antigen tests,Ever vaccinated population (taken in HK/elsewhere and reached 14 days)^,Population with 1st vaccine dose taken in HK@,Population with 2nd vaccine dose taken in HK@,Population with 3rd vaccine dose taken in HK@,Population with 4th vaccine dose taken in HK@,End-2021 resident population
+<3,1,0,5,12446,N/A,,,,,123600
+3 to 11,6,0,5,60405,345471,356988,225141,139,0,502600
+12 to 19,5,0,3,46914,444243,439205,379129,94427,15,447300
+20 to 29,14,0,19,138983,791156,753977,721081,307763,18,771900
+30 to 39,25,0,23,196248,1105503,1084076,1041111,551639,51,1094500
+40 to 49,61,0,27,193335,1176147,1157796,1125696,721216,171,1160300
+50 to 59,247,0,71,196197,1162391,1145860,1110449,726203,395,1191300
+60 to 69,756,1,148,177107,988629,979157,930902,568379,42754,1122100
+70 to 79,1528,0,240,84682,472067,471886,435172,230659,22468,591300
+80+,6486,1,534,61989,248468,257134,210449,68035,5494,398200
+Pending,2,0,0,25104,,,,,,
+Total,9131,2,1075,1193410,6734075,6646079,6179130,3268460,71366,7403100
